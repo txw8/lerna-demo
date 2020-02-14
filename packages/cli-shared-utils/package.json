@@ -1,0 +1,23 @@
+{
+  "name": "cli-shared-utils",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "tuxiaowei <txw19880824>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/cli-shared-utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "semver": "^7.1.3"
+  }
+}
