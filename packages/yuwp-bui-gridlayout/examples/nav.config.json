@@ -1,0 +1,34 @@
+{
+  "zh-CN": [
+    {
+      "name": "基础组件",
+      "groups": [
+        {
+          "groupName": "Form",
+          "list": [
+            {
+              "path": "/grid-layout",
+              "title": "GridLayout 动态布局"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "en-US": [
+    {
+      "name": "Components",
+      "groups": [
+        {
+          "groupName": "Form",
+          "list": [
+            {
+              "path": "/grid-layout",
+              "title": "GridLayout 动态布局"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

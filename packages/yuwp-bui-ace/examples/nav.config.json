@@ -1,0 +1,34 @@
+{
+  "zh-CN": [
+    {
+      "name": "基础组件",
+      "groups": [
+        {
+          "groupName": "Form",
+          "list": [
+            {
+              "path": "/ace-editor",
+              "title": "AceEditor 代码高亮输入框"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "en-US": [
+    {
+      "name": "Components",
+      "groups": [
+        {
+          "groupName": "Form",
+          "list": [
+            {
+              "path": "/ace-editor",
+              "title": "AceEditor"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
